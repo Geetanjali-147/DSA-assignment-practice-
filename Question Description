@@ -1,0 +1,38 @@
+Assignment Task
+
+- Input: An array representing the level-order traversal of a binary tree.
+
+- Build the Binary Tree
+
+- Perform and print all tree traversals: Inorder, Preorder, Postorder, Level-order
+
+- Output the following: Height, Total nodes, Leaf nodes, and Tree Type (Full, Perfect, Complete)
+
+Sample Input & Output
+
+Input:
+
+[1, 2, 3, 4, 5, 6]
+
+Expected Output:
+
+- Inorder: 4 2 5 1 6 3
+
+- Preorder: 1 2 4 5 3 6
+
+Postorder: 4 5 2 6 3 1
+
+- Level-order: 1 2 3 4 5 6
+
+- Height: 3
+
+- Total Nodes: 6
+
+- Leaf Nodes: 3
+
+- Full Tree: No
+
+- Perfect Tree: No
+
+- Complete Tree: Yes
+
